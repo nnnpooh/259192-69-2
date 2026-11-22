@@ -1,6 +1,6 @@
-# Skills for Professionalism and Entrepreneurship
+# 259192 - Skills for Professionalism and Entrepreneurship
 
-> 259192 (2569/2)
+> Term 2569/2
 
 # Resources
 
@@ -30,6 +30,12 @@ NOW()
 
 ```
 CONCATENATE([room], " - " , [name], " - ", [purpose])
+```
+
+The following formula is used to set the default value of a column to 1 hour after the current time.
+
+```
+NOW() + "001:00:00"
 ```
 
 # AppScript
