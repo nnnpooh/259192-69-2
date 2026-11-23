@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Informatino
+# Information
 
 - 259192 - Skills for Professionalism and Entrepreneurship
 - Term 2569/2
@@ -15,32 +15,10 @@ permalink: /
 - [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/3fxsG3o90Ue)
 - [Youtube Playlist](#)
 
-# AppSheet
+# Roster (Nov 23)
 
-- Current time
+![alt text](img/paste-1795404123670.png)
 
-```
-NOW()
-```
+# Roster (Nov 30)
 
-- Add one hour to current time.
-
-```
-NOW() + "001:00:00"
-```
-
-- Data Validity
-
-```
-[end_time] > [start_time]
-```
-
-- Virtual column formula
-
-```
-CONCATENATE([room], " - " , [name], " - ", [purpose])
-```
-
-# AppScript
-
-- [Code to send email notification](https://gist.github.com/nnnpooh/09f577c7fd44ea2f633d978e8f0846c7#file-appscript_email-js)
+![alt text](img/paste-1795404131846.png)

@@ -62,3 +62,7 @@ CONCATENATE([room], " - " , [name], " - ", [purpose])
 ![alt text](img/paste-1795403156737.png)
 
 ---
+
+# Required columns
+
+![alt text](img/paste-1795403795808.png)
