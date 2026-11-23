@@ -1,7 +1,7 @@
 ---
 title: Appsheet Column
 layout: default
-nav_order: 3
+nav_order: 4
 ---
 
 # `type`, `key` and `label` columns
