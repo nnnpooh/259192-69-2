@@ -39,7 +39,7 @@ NOW()
 NOW() + "001:00:00"
 ```
 
-![alt text](img/paste-1795403111787.png)
+![alt text](img/paste-1795403602003.png)
 
 ---
 
