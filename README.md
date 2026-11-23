@@ -8,7 +8,9 @@ permalink: /
 # Information
 
 - 259192 - Skills for Professionalism and Entrepreneurship
-- Term 2569/2
+  - Term 2569/2
+- Instructor: Asst. Prof. Dr. Nirand Pisutha-Arnond
+  - Department of Industrial Engineering, Faculty of Engineering, Chiang Mai University
 
 # Resources
 
