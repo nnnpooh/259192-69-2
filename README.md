@@ -15,6 +15,15 @@ permalink: /
 - [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/3fxsG3o90Ue)
 - [Youtube Playlist](#)
 
+# Attendance
+
+> You will make 2 attendances.
+
+- One for the beginning of the class for attending
+- One after you complete the activity
+
+![alt text](img/paste-1795404369377.png)
+
 # Roster (Nov 23)
 
 ![alt text](img/paste-1795404123670.png)
