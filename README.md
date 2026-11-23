@@ -5,6 +5,11 @@ nav_order: 1
 permalink: /
 ---
 
+# Informatino
+
+- 259192 - Skills for Professionalism and Entrepreneurship
+- Term 2569/2
+
 # Resources
 
 - [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/3fxsG3o90Ue)
