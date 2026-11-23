@@ -1,3 +1,9 @@
+---
+title: Database
+layout: default
+nav_order: 2
+---
+
 # Columns
 
 | id  | name | room | booking_time        | start_time          | end_time            | purpose |

@@ -1,4 +1,4 @@
-# 259192 - Skills for Professionalism and Entrepreneurship
+# Main
 
 > Term 2569/2
 
@@ -8,8 +8,6 @@
 - [Youtube Playlist](#)
 
 # AppSheet
-
-
 
 - Current time
 
