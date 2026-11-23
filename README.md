@@ -1,6 +1,9 @@
-# Main
-
-> Term 2569/2
+---
+title: Main
+layout: home
+nav_order: 1
+permalink: /
+---
 
 # Resources
 
