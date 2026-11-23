@@ -20,7 +20,7 @@ permalink: /
 
 > You will make 2 attendances.
 
-- One for the beginning of the class for attending
+- One at the beginning of the class for attending
 - One after you complete the activity
 
 ![alt text](img/paste-1795404369377.png)
