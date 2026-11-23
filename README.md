@@ -14,7 +14,6 @@ permalink: /
 
 # Resources
 
-- [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/3fxsG3o90Ue)
 - [Youtube Playlist](#)
 
 # Attendance
