@@ -14,7 +14,7 @@ permalink: /
 
 # Resources
 
-- [Youtube Playlist](#)
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PLehq6uu-A6wA)
 
 # Attendance
 
