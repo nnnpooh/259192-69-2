@@ -4,13 +4,8 @@
 
 # Resources
 
-- [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/97g3a97dWzd)
+- [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/3fxsG3o90Ue)
 - [Youtube Playlist](#)
-
-# Demo
-
-- [Form](https://script.google.com/macros/s/AKfycbzAqVp_fHHfoG-_ps0zWaBpFitKqM2_tybKaqqNeFtKsiRZAn8JhCuYCCI2OuyDWy9pzQ/exec)
-- [Dashboard](https://datastudio.google.com/s/mmiReemdReE)
 
 # AppSheet
 
@@ -18,6 +13,12 @@
 
 ```
 NOW()
+```
+
+- Add one hour to current time.
+
+```
+NOW() + "001:00:00"
 ```
 
 - Data Validity
@@ -30,12 +31,6 @@ NOW()
 
 ```
 CONCATENATE([room], " - " , [name], " - ", [purpose])
-```
-
-The following formula is used to set the default value of a column to 1 hour after the current time.
-
-```
-NOW() + "001:00:00"
 ```
 
 # AppScript
