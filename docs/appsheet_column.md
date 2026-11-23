@@ -14,12 +14,36 @@ nav_order: 3
 
 # `booking_time` column
 
-> `Auto Compute` with `NOW()` formula
+```
+NOW()
+```
 
 ![alt text](img/paste-1795403046923.png)
 
 # `start_time` and `end_time` columns
 
-![alt text](img/paste-1795403092438.png)
+```
+NOW() + "001:00:00"
+```
 
-![alt text](img/paste-1795403111787.png)
+- `start_time`
+  ![alt text](img/paste-1795403092438.png)
+
+- `end_time`
+  ![alt text](img/paste-1795403111787.png)
+
+# Data validation for `end_time` column
+
+```
+[end_time] > [start_time]
+```
+
+![alt text](img/paste-1795403230182.png)
+
+# `calendar_display` Virtual column
+
+```
+CONCATENATE([room], " - " , [name], " - ", [purpose])
+```
+
+![alt text](img/paste-1795403156737.png)
